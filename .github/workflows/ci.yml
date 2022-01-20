@@ -9,4 +9,4 @@ jobs:
 
     steps: 
       - name: Greetings from GitHub Actions
-      - run: echo Hello World
+        run: echo Hello World
